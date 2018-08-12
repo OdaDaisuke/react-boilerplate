@@ -1,0 +1,43 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OdaDaisuke/react-boilerplate.git",
+  "author": "OdaDaisuke <hinopon25@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bind-decorator": "^1.0.11",
+    "history": "^4.7.2",
+    "lodash": "^4.17.10",
+    "mobile-detect": "^1.4.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-hot-loader": "^4.3.4",
+    "react-router-dom": "^4.3.1",
+    "rxjs": "^6.2.2"
+  },
+  "devDependencies": {
+    "@types/history": "^4.7.0",
+    "@types/jest": "^23.3.1",
+    "@types/lodash": "^4.14.116",
+    "@types/react": "^16.4.9",
+    "@types/react-dom": "^16.0.7",
+    "@types/react-router-dom": "^4.3.0",
+    "@types/react-test-renderer": "^16.0.2",
+    "@types/sinon": "^5.0.1",
+    "browser-sync": "^2.24.6",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "jest": "^23.5.0",
+    "mocha": "^5.2.0",
+    "react-test-renderer": "^16.4.2",
+    "sinon": "^6.1.5",
+    "ts-jest": "^23.1.3",
+    "ts-loader": "^4.4.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  }
+}
